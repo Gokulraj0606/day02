@@ -1,6 +1,7 @@
 # day02
 
 write a blog on the difference between document & window objects
+
 document : It represents any HTML document or web page that is loaded in the browser.
            It is loaded inside the window.
            It is the object of window property

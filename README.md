@@ -13,5 +13,5 @@ window   : It represents a browser window or frame that displays the contents of
            It is the very first object that is loaded in the browser.
            It is the object of the browser.
            We can access the window from the window only. i.e. window.window
-           The window is part of BOM, not DOM
+           The window is part of BOM, not DOM.
            syntax: window.propertyname;
